@@ -8,7 +8,6 @@
 </p>
 
 ---
-<img height="180em" src="https://skillicons.dev/icons?i=java,spring,mysql,redis,nginx,docker,maven,git,idea,linux" />
 
 ### 🚀 技术概览
 
@@ -28,7 +27,8 @@
 
 ### 📊 GitHub 实力看板
 <p align="center">
-<img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img height="180em" src="https://skillicons.dev/icons?i=java,spring,mysql,redis,nginx,docker,maven,git,idea,linux" />
 </p>
 
 ---
