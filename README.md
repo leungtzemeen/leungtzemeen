@@ -5,7 +5,6 @@
 **Java 后端开发工程师 | AI 落地实践探索者**
 
 <p align="center">
-  <!-- 修正：域名改为 github-readme-stats.vercel.app -->
   <img src="https://github-readme-stats.vercel.app/api?username=leungtzemeen&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </p>
 
@@ -29,9 +28,8 @@
 
 ### 📊 GitHub 实力看板
 <p align="center">
-  <!-- 修正：域名改为 github-readme-stats.vercel.app，注意路径为 /api/top-langs/ -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leungtzemeen&layout=compact&langs_count=8&theme=tokyonight" />
-  <img height="180em" src="https://skillicons.dev/icons?i=java,spring,mysql,redis,netty,nginx,docker,maven,git,idea,linux" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leungtzemeen&layout=compact&langs_count=8&theme=tokyonight" />
+<img height="180em" src="https://skillicons.dev/icons?i=java,spring,mysql,redis,nginx,docker,maven,git,idea,linux" />
 </p>
 
 ---
