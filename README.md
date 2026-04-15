@@ -8,6 +8,7 @@
 </p>
 
 ---
+<img height="180em" src="https://skillicons.dev/icons?i=java,spring,mysql,redis,nginx,docker,maven,git,idea,linux" />
 
 ### 🚀 技术概览
 
@@ -28,13 +29,12 @@
 ### 📊 GitHub 实力看板
 <p align="center">
 <img src="./profile/top-langs.svg" alt="Top Languages" />
-<img height="180em" src="https://skillicons.dev/icons?i=java,spring,mysql,redis,nginx,docker,maven,git,idea,linux" />
 </p>
 
 ---
 
 ### 📫 欢迎与我交流
-[![Blog](https://img.shields.io/badge/Blog-博客地址-blue)](https://github.com/leungtzemeen) <!-- 这里可以换成你以后博客的链接 -->
+<!-- [![Blog](https://img.shields.io/badge/Blog-博客地址-blue)](https://github.com/leungtzemeen) --> <!-- 这里可以换成你以后博客的链接 -->
 [![Email](https://img.shields.io/badge/Email-leungtzemeen@gmail.com-blue)](mailto:leungtzemeen@gmail.com)
 
 </div>
