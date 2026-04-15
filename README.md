@@ -3,9 +3,9 @@
 # 👋 你好，我是 leungtzemeen
 
 **Java 后端开发工程师 | AI 落地实践探索者**
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leungtzemeen&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
