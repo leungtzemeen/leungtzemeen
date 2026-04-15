@@ -5,7 +5,8 @@
 **Java 后端开发工程师 | AI 落地实践探索者**
 
 <p align="center">
-  <img src="https://vercel.app/api?username=leungtzemeen&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <!-- 修正：域名改为 github-readme-stats.vercel.app -->
+  <img src="https://github-readme-stats.vercel.app/api?username=leungtzemeen&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </p>
 
 ---
@@ -28,14 +29,15 @@
 
 ### 📊 GitHub 实力看板
 <p align="center">
-<img height="180em" src="https://vercel.app/api/top-langs/?username=leungtzemeen&layout=compact&langs_count=8&theme=tokyonight" />
-<img height="180em" src="https://skillicons.dev/icons?i=java,spring,mysql,redis,netty,nginx,docker,maven,git,idea,linux" />
+  <!-- 修正：域名改为 github-readme-stats.vercel.app，注意路径为 /api/top-langs/ -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leungtzemeen&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://skillicons.dev/icons?i=java,spring,mysql,redis,netty,nginx,docker,maven,git,idea,linux" />
 </p>
 
 ---
 
 ### 📫 欢迎与我交流
-[![Blog](https://shields.io)](https://github.com/leungtzemeen/leungtzemeen/) <!-- 这里可以换成你以后博客的链接 -->
-[![Email](https://shields.io)](mailto:leungtzemeen@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-博客地址-blue)](https://github.com/leungtzemeen) <!-- 这里可以换成你以后博客的链接 -->
+[![Email](https://img.shields.io/badge/Email-leungtzemeen@gmail.com-blue)](mailto:leungtzemeen@gmail.com)
 
 </div>
