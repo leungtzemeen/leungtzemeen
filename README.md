@@ -4,8 +4,7 @@
 
 **Java 后端开发工程师 | AI 落地实践探索者**
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
 
 ---
@@ -28,7 +27,7 @@
 
 ### 📊 GitHub 实力看板
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leungtzemeen&layout=compact&langs_count=8&theme=tokyonight" />
+<img src="./profile/top-langs.svg" alt="Top Languages" />
 <img height="180em" src="https://skillicons.dev/icons?i=java,spring,mysql,redis,nginx,docker,maven,git,idea,linux" />
 </p>
 
