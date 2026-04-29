@@ -130,9 +130,19 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="250"
+          width="139.55"
           height="8"
           fill="#b07219"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="139.55"
+          y="0"
+          width="110.45"
+          height="8"
+          fill="#596706"
         />
       
       
@@ -141,7 +151,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 100.00%
+        Java 55.82%
+      </text>
+    </g>
+  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#596706" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Smalltalk 44.18%
       </text>
     </g>
   </g></g>
